@@ -1,2 +1,3 @@
-# .github
-GeoSIRR Github Organization README
+# GeoSIRR
+
+GeoSIRR: Geological Section Interpretation, Reconstruction & Refinement
